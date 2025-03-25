@@ -1,0 +1,1 @@
+{"name":"Local: Combination Lock","url":"d:\\Problem Solve\\Codeforces\\Contest\\contetst-1\\Combination Lock.cpp","tests":[{"id":1742915293390,"input":"3\n4\n5\n3\n","output":"-1\n4 1 3 5 2\n1 3 2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problem Solve\\Codeforces\\Contest\\contetst-1\\Combination Lock.cpp","group":"local","local":true}
